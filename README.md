@@ -4,4 +4,4 @@ Operating Systems 2021-1
 Andre Septiano - 1906398313 - Bukittinggi, West Sumatra
 
 [LOG](/TXT/mylog.txt)
-[W01](https://andreseptiano.github.io/W01/)
+[W01](https://andreseptiano.github.io/os211/W01/)
