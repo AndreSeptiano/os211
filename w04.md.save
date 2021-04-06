@@ -1,0 +1,35 @@
+---
+layout: "layout"
+permalink: /W04/
+---
+
+# Top 10 List of Week 04
+
+1. [Little Endian vs. Big Endian](https://levelup.gitconnected.com/little-endian-vs-big-endian-eb2a2c3a9135)<br>
+Sebuah artikel yang menjelaskan apa itu endian serta perbedaan antara little endian dan big endian. Big endian menyimpan least significant byte (LSB) di address paling besar dan menyimpan Most Significant Byte (MSB) di address paling kecil. Sebaliknya, Little Endian menyimpan LSB di address paling kecil dan MSB di address paling besar. Sebagai contoh kita ingin menyimpan data word "0A 0B 0C 0D", pada Big Endian 0A disimpan pada address paling kecil dan 0D pada address paling besar, sedangkan pada Little Endian 0A tersimpan di address paling besar dan 0D di address paling kecil. Saya menyarankan artikel ini karena dapat meluruskan pemahaman saya tentang Big Endian dan Little Endian.
+
+2. [Endianness Explained with an Egg](https://www.youtube.com/watch?v=NcaiHcBvDR4)<br>
+Sebuah video dengan durasi 10 menit yang menjelaskan tentang Big Endian dan Little Endian dengan sebuah telur. Saya menemukan ini menarik karena penjelasannya menggunakan sebuah telur.
+
+3. [Memory Hierarchy Design](https://www.geeksforgeeks.org/memory-hierarchy-design-and-its-characteristics/)<br>
+Sebuah artikel yang menjelaskan tentang piramida hirarki memori. Terdapat 5 level, dari 
+
+4. []()<br>
+
+
+5. []()<br>
+
+
+6. []()<br>
+
+
+7. []()<br>
+
+
+8. []()<br>
+
+
+9. []()<br>
+
+
+10. []()<br>

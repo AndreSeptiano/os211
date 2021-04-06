@@ -10,3 +10,4 @@ Andre Septiano - 1906398313 - Bukittinggi, West Sumatra
 [W02](https://andreseptiano.github.io/os211/W02/)
 [W03](https://andreseptiano.github.io/os211/W03/)
 [W04](https://andreseptiano.github.io/os211/W04/)
+[W05](https://andreseptiano.github.io/os211/W05/)
